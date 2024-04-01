@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meshcon", "Meshcon\Meshcon.csproj", "{CE1FC169-CA96-4327-9E4A-47E240CA474B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE1FC169-CA96-4327-9E4A-47E240CA474B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE1FC169-CA96-4327-9E4A-47E240CA474B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE1FC169-CA96-4327-9E4A-47E240CA474B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE1FC169-CA96-4327-9E4A-47E240CA474B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D69F152F-E867-428E-A189-451C928BCDB7}
+	EndGlobalSection
+EndGlobal
