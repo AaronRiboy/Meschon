@@ -2958,11 +2958,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aaron/Projects/Meshcon/Meshcon/Meshcon.csproj",
+      "projectUniqueName": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/Meshcon.csproj",
       "projectName": "Meshcon",
-      "projectPath": "/Users/aaron/Projects/Meshcon/Meshcon/Meshcon.csproj",
+      "projectPath": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/Meshcon.csproj",
       "packagesPath": "/Users/aaron/.nuget/packages/",
-      "outputPath": "/Users/aaron/Projects/Meshcon/Meshcon/obj/",
+      "outputPath": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/aaron/.nuget/NuGet/NuGet.Config"

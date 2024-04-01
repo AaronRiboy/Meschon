@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Meshcon
 build_property.RootNamespace = Meshcon
-build_property.ProjectDir = /Users/aaron/Projects/Meshcon/Meshcon/
+build_property.ProjectDir = /Users/aaron/Projects/Meschon/Meshcon/Meshcon/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = /Users/aaron/Projects/Meshcon/Meshcon
+build_property.MSBuildProjectDirectory = /Users/aaron/Projects/Meschon/Meshcon/Meshcon
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/aaron/Projects/Meshcon/Meshcon/Views/Home/About.cshtml]
+[/Users/aaron/Projects/Meschon/Meshcon/Meshcon/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aaron/Projects/Meshcon/Meshcon/Views/Home/Blog.cshtml]
+[/Users/aaron/Projects/Meschon/Meshcon/Meshcon/Views/Home/Blog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9CbG9nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aaron/Projects/Meshcon/Meshcon/Views/Home/Contact.cshtml]
+[/Users/aaron/Projects/Meschon/Meshcon/Meshcon/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aaron/Projects/Meshcon/Meshcon/Views/Home/Index.cshtml]
+[/Users/aaron/Projects/Meschon/Meshcon/Meshcon/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aaron/Projects/Meshcon/Meshcon/Views/Home/Project.cshtml]
+[/Users/aaron/Projects/Meschon/Meshcon/Meshcon/Views/Home/Project.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcm9qZWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aaron/Projects/Meshcon/Meshcon/Views/Home/Service.cshtml]
+[/Users/aaron/Projects/Meschon/Meshcon/Meshcon/Views/Home/Service.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TZXJ2aWNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aaron/Projects/Meshcon/Meshcon/Views/Shared/Error.cshtml]
+[/Users/aaron/Projects/Meschon/Meshcon/Meshcon/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aaron/Projects/Meshcon/Meshcon/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/aaron/Projects/Meschon/Meshcon/Meshcon/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aaron/Projects/Meshcon/Meshcon/Views/_ViewImports.cshtml]
+[/Users/aaron/Projects/Meschon/Meshcon/Meshcon/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aaron/Projects/Meshcon/Meshcon/Views/_ViewStart.cshtml]
+[/Users/aaron/Projects/Meschon/Meshcon/Meshcon/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/aaron/Projects/Meshcon/Meshcon/Views/Shared/_Layout.cshtml]
+[/Users/aaron/Projects/Meschon/Meshcon/Meshcon/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-xc7r6tompt
