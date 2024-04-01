@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DMf8co2dPoi0OWdXnGMcmhevR8gQPJSvvpR2iePGj9A=",
+  "Hash": "XEl094n/twjHtMMCbHFCp/jAJew9MidYj/c0ZWKljYE=",
   "Source": "Meshcon",
   "BasePath": "_content/Meshcon",
   "Mode": "Default",
@@ -1732,6 +1732,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/img/logo/logo2_footer.png"
+    },
+    {
+      "Identity": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/logo/meshcon.png",
+      "SourceId": "Meshcon",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/",
+      "BasePath": "_content/Meshcon",
+      "RelativePath": "img/logo/meshcon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/logo/meshcon.png"
     },
     {
       "Identity": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/post/next.jpg",

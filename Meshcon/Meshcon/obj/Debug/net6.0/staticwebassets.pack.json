@@ -401,6 +401,10 @@
       "PackagePath": "staticwebassets/img/logo/logo2_footer.png"
     },
     {
+      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/logo/meshcon.png",
+      "PackagePath": "staticwebassets/img/logo/meshcon.png"
+    },
+    {
       "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/post/next.jpg",
       "PackagePath": "staticwebassets/img/post/next.jpg"
     },

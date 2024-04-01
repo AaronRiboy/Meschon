@@ -23,7 +23,7 @@
 }
 
 .theme-bg {
-    background: #FF1A35
+    background: #05492d
 }
 
 .brand-bg {
@@ -43,7 +43,7 @@
 }
 
 .theme-color {
-    color: #FF1A35
+    color: #05492d
 }
 
 [data-overlay] {
@@ -1579,7 +1579,7 @@ hr {
 }
 
 #scrollUp, #back-top {
-    background: #FF1A35;
+    background: #05492d;
     height: 40px;
     width: 40px;
     right: 31px;
@@ -1690,7 +1690,7 @@ hr {
         position: relative;
         border-style: solid;
         border-width: 1px;
-        border-top-color: #FF1A35;
+        border-top-color: #05492d;
         border-bottom-color: transparent;
         border-left-color: transparent;
         border-right-color: transparent;
@@ -2204,7 +2204,7 @@ hr {
 }
 
 .section-tittle h2 span {
-    color: #FF1A35
+    color: #05492d
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
@@ -2274,7 +2274,7 @@ hr {
 }
 
 .btn {
-    background: #FF1A35;
+    background: #05492d;
     font-family: "Oswald",sans-serif;
     text-transform: inherit !important;
     padding: 30px 52px;
@@ -2303,7 +2303,7 @@ hr {
         top: 0;
         width: 102%;
         height: 102%;
-        background: #cc031b;
+        background: #218b22;
         z-index: 1;
         border-radius: 0px;
         transition: transform 0.5s;
@@ -2350,7 +2350,7 @@ hr {
 }
 
 .btn.slider-btn:hover::before {
-    background: #FF1A35 !important
+    background: #05492d !important
 }
 
 .btn_0 {
@@ -2406,7 +2406,7 @@ hr {
 .btn_10 {
     font-family: "Oswald",sans-serif;
     color: #fff;
-    background: #FF1A35;
+    background: #05492d;
     border: none;
     padding: 17px 35px 16px 33px !important;
     text-transform: capitalize;
@@ -2466,8 +2466,8 @@ hr {
 }
 
 .border-btn {
-    border: 1px solid #FF1A35;
-    color: #FF1A35;
+    border: 1px solid #05492d;
+    color: #05492d;
     background: none;
     text-transform: normal;
     padding: 11px 39px !important;
@@ -2488,7 +2488,7 @@ hr {
     .border-btn i {
         font-size: 16px;
         margin-right: 10px;
-        color: #FF1A35;
+        color: #05492d;
         -webkit-transition: all .3s ease-out 0s;
         -moz-transition: all .3s ease-out 0s;
         -ms-transition: all .3s ease-out 0s;
@@ -2525,11 +2525,11 @@ hr {
         }
 
             .border-btn.border-btn2:hover::before {
-                color: #FF1A35
+                color: #05492d
             }
 
     .border-btn:hover {
-        color: #FF1A35 !important
+        color: #05492d !important
     }
 
         .border-btn:hover::before {
@@ -2559,14 +2559,14 @@ hr {
     .browse-btn::before {
         position: absolute;
         content: "";
-        background: #FF1A35;
+        background: #05492d;
         width: 100%;
         height: 2px;
         bottom: -11px
     }
 
     .browse-btn:hover {
-        color: #FF1A35;
+        color: #05492d;
         letter-spacing: 0.3px
     }
 
@@ -2579,7 +2579,7 @@ hr {
         }
 
 .browse-btn2 {
-    color: #FF1A35 !important;
+    color: #05492d !important;
     font-weight: 400;
     font-size: 16px;
     position: relative;
@@ -2628,7 +2628,7 @@ hr {
 
 .header-btn2 {
     padding: 13px 25px !important;
-    background: #FF1A35;
+    background: #05492d;
     font-size: 16px !important;
     border-radius: 25px;
     color: #fff !important;
@@ -2674,12 +2674,12 @@ hr {
 }
 
 .hero-btn:hover {
-    border: 1px solid #FF1A35;
-    color: #FF1A35 !important
+    border: 1px solid #05492d;
+    color: #05492d !important
 }
 
     .hero-btn:hover i {
-        color: #FF1A35
+        color: #05492d
     }
 
 .cal-btn i {
@@ -2733,16 +2733,16 @@ hr {
 .borders-btn {
     padding: 10px 64px;
     background: none;
-    border: 1px solid #FF1A35;
+    border: 1px solid #05492d;
     display: inline-block;
-    color: #FF1A35;
+    color: #05492d;
     border-radius: 30px;
     text-transform: uppercase
 }
 
 .submit-btn {
     width: 100%;
-    background: #FF1A35;
+    background: #05492d;
     font-family: "Oswald",sans-serif;
     text-transform: inherit !important;
     padding: 25px 43px;
@@ -2807,7 +2807,7 @@ hr {
     }
 
 .submit-btn2 {
-    background: #FF1A35;
+    background: #05492d;
     height: 50px;
     padding: 10px 36px;
     border: 0;
@@ -2853,7 +2853,7 @@ hr {
     top: 0;
     width: 101%;
     height: 101%;
-    background: #FF1A35;
+    background: #05492d;
     z-index: 1;
     border-radius: 5px;
     transition: transform 0.5s;
@@ -2949,7 +2949,7 @@ hr {
     .btn_2:hover {
         background-color: #fff;
         border: 1px solid #fff;
-        color: #FF1A35 !important
+        color: #05492d !important
     }
 
 .btn_02 {
@@ -2964,13 +2964,13 @@ hr {
 
     .btn_02:hover {
         background-color: #fff;
-        border: 1px solid #FF1A35;
-        color: #FF1A35 !important
+        border: 1px solid #05492d;
+        color: #05492d !important
     }
 
 .btn_01 {
-    color: #FF1A35 !important;
-    border: 1px solid #FF1A35;
+    color: #05492d !important;
+    border: 1px solid #05492d;
     display: inline-block;
     padding: 14px 43px;
     text-transform: uppercase;
@@ -2981,7 +2981,7 @@ hr {
 }
 
     .btn_01 i {
-        color: #FF1A35;
+        color: #05492d;
         -webkit-transition: all .4s ease-out 0s;
         -moz-transition: all .4s ease-out 0s;
         -ms-transition: all .4s ease-out 0s;
@@ -2995,8 +2995,8 @@ hr {
     }
 
     .btn_01:hover {
-        background-color: #FF1A35;
-        border: 1px solid #FF1A35;
+        background-color: #05492d;
+        border: 1px solid #05492d;
         color: #fff !important
     }
 
@@ -3006,18 +3006,18 @@ hr {
 
 .product_btn {
     font-size: 12px;
-    background-color: #FF1A35;
+    background-color: #05492d;
     display: inline-block;
     color: #fff;
     padding: 2px 15px;
     text-transform: uppercase;
-    border: 1px solid #FF1A35
+    border: 1px solid #05492d
 }
 
     .product_btn:hover {
-        border: 1px solid #FF1A35;
+        border: 1px solid #05492d;
         background-color: transparent;
-        color: #FF1A35
+        color: #05492d
     }
 
 .btn.focus, .btn:focus {
@@ -3036,7 +3036,7 @@ hr {
 }
 
     .fb-btn:hover::before {
-        background: #FF1A35 !important
+        background: #05492d !important
     }
 
 .twit-btn {
@@ -3045,7 +3045,7 @@ hr {
 }
 
     .twit-btn:hover::before {
-        background: #FF1A35 !important
+        background: #05492d !important
     }
 
 .tittle-btn {
@@ -3085,25 +3085,25 @@ hr {
 
 .boxed-btn {
     background: #fff;
-    color: #FF1A35 !important;
+    color: #05492d !important;
     display: inline-block;
     padding: 18px 44px;
     font-family: "Oswald",sans-serif;
     font-size: 14px;
     font-weight: 400;
     border: 0;
-    border: 1px solid #FF1A35;
+    border: 1px solid #05492d;
     letter-spacing: 1px;
     text-align: center;
-    color: #FF1A35;
+    color: #05492d;
     text-transform: uppercase;
     cursor: pointer
 }
 
     .boxed-btn:hover {
-        background: #FF1A35;
+        background: #05492d;
         color: #fff !important;
-        border: 1px solid #FF1A35
+        border: 1px solid #05492d
     }
 
     .boxed-btn:focus {
@@ -3155,7 +3155,7 @@ hr {
 
     .red-btn i {
         color: #0A0A0A;
-        background: #FF1A35;
+        background: #05492d;
         width: 29px;
         height: 29px;
         border-radius: 50%;
@@ -3178,7 +3178,7 @@ hr {
 
     .red-btn2 i {
         color: #0A0A0A;
-        background: #FF1A35;
+        background: #05492d;
         width: 29px;
         height: 29px;
         border-radius: 50%;
@@ -3440,7 +3440,7 @@ hr {
 }
 
 .header-sticky.sticky-bar {
-    background: #FF1A35;
+    background: #05492d;
     height: 102px
 }
 
@@ -3500,12 +3500,12 @@ hr {
 
                 .mobile_menu .slicknav_menu .slicknav_nav a:hover {
                     background: transparent;
-                    color: #FF1A35
+                    color: #05492d
                 }
 
             .mobile_menu .slicknav_menu .slicknav_nav .header-btn:hover {
                 color: #fff !important;
-                background: #FF1A35
+                background: #05492d
             }
 
             .mobile_menu .slicknav_menu .slicknav_nav .slicknav_item a {
@@ -3516,7 +3516,7 @@ hr {
                 font-size: 32px;
                 top: -13px;
                 font-weight: 300;
-                color: #FF1A35
+                color: #05492d
             }
 
 .slider-height {
@@ -3800,7 +3800,7 @@ hr {
     .hero-overly::before {
         position: absolute;
         content: "";
-        background-color: rgba(255,26,53,0.82);
+        background-color: rgba(33, 139, 34, 0.82);
         width: 100%;
         height: 100%;
         left: 0;
@@ -3820,7 +3820,7 @@ hr {
 }
 
 .slider-footer {
-    background: #FF1A35;
+    background: #05492d;
     margin-left: 14%;
     z-index: 2;
     position: relative;
@@ -4184,7 +4184,7 @@ hr {
 }
 
 .visit-tailor-area .tailor-offers .info-man .head-cap h3 {
-    color: #FF1A35;
+    color: #05492d;
     font-size: 120px;
     font-weight: 800;
     line-height: 1
@@ -4197,7 +4197,7 @@ hr {
 }
 
 .about-area .wrapper-border {
-    border: 2px solid #FF1A35;
+    border: 2px solid #05492d;
     padding: 20px
 }
 
@@ -4345,7 +4345,7 @@ hr {
 }
 
 .about-area .slider-btns a {
-    color: #FF1A35;
+    color: #05492d;
     font-weight: 500;
     font-size: 14px;
     text-transform: uppercase;
@@ -4354,7 +4354,7 @@ hr {
 
 .about-area .slider-btns .video-btn {
     font-family: "Oswald",sans-serif;
-    color: #FF1A35;
+    color: #05492d;
     font-weight: 400;
     font-size: 18px;
     text-transform: capitalize;
@@ -4540,9 +4540,9 @@ hr {
 }
 
     .gallery-area .single-gallery .thumb-content-box .thumb-content a:hover {
-        border: 1px solid #FF1A35;
+        border: 1px solid #05492d;
         color: #fff;
-        background: #FF1A35
+        background: #05492d
     }
 
 .single-gallery:hover .gallery-img-thumb, .single-gallery:hover .thumb-content-box {
@@ -4595,7 +4595,7 @@ hr {
             }
 
                 .team-area .single-team .team-caption h3 a:hover {
-                    color: #FF1A35
+                    color: #05492d
                 }
 
         .team-area .single-team .team-caption p {
@@ -4645,12 +4645,12 @@ hr {
 
             .team-social li a i {
                 display: inline-block;
-                color: #FF1A35
+                color: #05492d
             }
 
             .team-social li a:hover {
                 color: #fff;
-                background: #FF1A35
+                background: #05492d
             }
 
                 .team-social li a:hover i {
@@ -4687,12 +4687,12 @@ hr {
 }
 
     .team-active button.slick-arrow:hover {
-        color: #FF1A35;
-        border: 1px solid #FF1A35
+        color: #05492d;
+        border: 1px solid #05492d
     }
 
         .team-active button.slick-arrow:hover i {
-            color: #FF1A35
+            color: #05492d
         }
 
     .team-active button.slick-arrow i {
@@ -4841,7 +4841,7 @@ hr {
                 }
 
             .footer-area .footer-form form .form-icon button {
-                background: #FF1A35 !important;
+                background: #05492d !important;
                 border: 0;
                 color: #fff;
                 text-transform: uppercase;
@@ -4878,11 +4878,11 @@ hr {
 }
 
     .footer-bottom-area .footer-copy-right p i {
-        color: #FF1A35
+        color: #05492d
     }
 
     .footer-bottom-area .footer-copy-right p a {
-        color: #FF1A35;
+        color: #05492d;
         font-weight: 500
     }
 
@@ -5045,7 +5045,7 @@ ul.footer-social li {
         position: absolute;
         top: 50%;
         transform: translateY(-50%);
-        background: #FF1A35;
+        background: #05492d;
         padding: 25px 17px;
         font-size: 16px !important;
         width: 123px;
@@ -5153,11 +5153,11 @@ ul.footer-social li {
         }
 
     .items-active .owl-nav div:hover {
-        border: 1px solid #FF1A35
+        border: 1px solid #05492d
     }
 
         .items-active .owl-nav div:hover i {
-            color: #FF1A35
+            color: #05492d
         }
 
 .items-active .owl-dots {
@@ -5189,7 +5189,7 @@ ul.footer-social li {
 }
 
     .blog_area a:hover, .blog_area a :hover {
-        background: -webkit-linear-gradient(131deg, #FF1A35 0%, #FF1A35 99%);
+        background: -webkit-linear-gradient(131deg, #05492d 0%, #05492d 99%);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         text-decoration: none;
@@ -5648,7 +5648,7 @@ ul.footer-social li {
 }
 
     .blog_details a:hover {
-        color: #FF1A35
+        color: #05492d
     }
 
 .blog_details h2 {
@@ -5705,7 +5705,7 @@ ul.footer-social li {
         left: 10px;
         display: block;
         color: #fff;
-        background-color: #FF1A35;
+        background-color: #05492d;
         padding: 8px 15px;
         border-radius: 5px
     }
@@ -5787,7 +5787,7 @@ ul.footer-social li {
     }
 
 .blog_right_sidebar .search_widget .input-group button {
-    background: #FF1A35;
+    background: #05492d;
     border-left: 0;
     border: 1px solid #f0e9ff;
     padding: 12px 15px;
@@ -5904,7 +5904,7 @@ ul.footer-social li {
     }
 
         .blog_right_sidebar .tag_cloud_widget ul li a:hover {
-            background: #FF1A35;
+            background: #05492d;
             color: #fff !important;
             -webkit-text-fill-color: #fff;
             text-decoration: none;
@@ -6115,7 +6115,7 @@ ul.footer-social li {
 }
 
     .single-post-area .blog-author a:hover {
-        color: #FF1A35
+        color: #05492d
     }
 
 .single-post-area .blog-author p {
