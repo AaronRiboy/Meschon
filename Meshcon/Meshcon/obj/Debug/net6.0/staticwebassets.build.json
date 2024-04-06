@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XEl094n/twjHtMMCbHFCp/jAJew9MidYj/c0ZWKljYE=",
+  "Hash": "/i9jLlKQBlZnzlqu38QJ0hcFD6DmvG0HTvcJqdKyACM=",
   "Source": "Meshcon",
   "BasePath": "_content/Meshcon",
   "Mode": "Default",
@@ -1511,6 +1511,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/img/gallery/gallery6.jpg"
+    },
+    {
+      "Identity": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/gallery/Picture1.jpg",
+      "SourceId": "Meshcon",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/",
+      "BasePath": "_content/Meshcon",
+      "RelativePath": "img/gallery/Picture1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/gallery/Picture1.jpg"
     },
     {
       "Identity": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/gallery/team1.jpg",

@@ -297,6 +297,10 @@
       "PackagePath": "staticwebassets/img/elements/success-radio.png"
     },
     {
+      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/gallery/Picture1.jpg",
+      "PackagePath": "staticwebassets/img/gallery/Picture1.jpg"
+    },
+    {
       "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/gallery/about1.jpg",
       "PackagePath": "staticwebassets/img/gallery/about1.jpg"
     },
