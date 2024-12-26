@@ -1,871 +1,867 @@
 {
   "Files": [
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/obj/Debug/net6.0/scopedcss/projectbundle/Meshcon.bundle.scp.css",
-      "PackagePath": "staticwebassets/Meshcon.bundle.scp.css"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Meshcon.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Meshcon.bundle.scp.css"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/.DS_Store",
-      "PackagePath": "staticwebassets/.DS_Store"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/css/animate.min.css",
-      "PackagePath": "staticwebassets/css/animate.min.css"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/css/bootstrap.min.css",
-      "PackagePath": "staticwebassets/css/bootstrap.min.css"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome-all.min.css"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/css/fontawesome-all.min.css",
-      "PackagePath": "staticwebassets/css/fontawesome-all.min.css"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/css/magnific-popup.css",
-      "PackagePath": "staticwebassets/css/magnific-popup.css"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/css/nice-select.css",
-      "PackagePath": "staticwebassets/css/nice-select.css"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/css/owl.carousel.min.css",
-      "PackagePath": "staticwebassets/css/owl.carousel.min.css"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/css/site.css",
-      "PackagePath": "staticwebassets/css/site.css"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/css/slick.css",
-      "PackagePath": "staticwebassets/css/slick.css"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\css\\slicknav.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.css"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/css/slicknav.css",
-      "PackagePath": "staticwebassets/css/slicknav.css"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/css/style.css",
-      "PackagePath": "staticwebassets/css/style.css"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\css\\style.map",
+      "PackagePath": "staticwebassets\\css\\style.map"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/css/style.map",
-      "PackagePath": "staticwebassets/css/style.map"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\css\\themify-icons.css"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/css/themify-icons.css",
-      "PackagePath": "staticwebassets/css/themify-icons.css"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/favicon.ico",
-      "PackagePath": "staticwebassets/favicon.ico"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.eot"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/fonts/fa-brands-400.eot",
-      "PackagePath": "staticwebassets/fonts/fa-brands-400.eot"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.svg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/fonts/fa-brands-400.svg",
-      "PackagePath": "staticwebassets/fonts/fa-brands-400.svg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/fonts/fa-brands-400.ttf",
-      "PackagePath": "staticwebassets/fonts/fa-brands-400.ttf"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/fonts/fa-brands-400.woff",
-      "PackagePath": "staticwebassets/fonts/fa-brands-400.woff"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/fonts/fa-brands-400.woff2",
-      "PackagePath": "staticwebassets/fonts/fa-brands-400.woff2"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.eot"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/fonts/fa-regular-400.eot",
-      "PackagePath": "staticwebassets/fonts/fa-regular-400.eot"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.svg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/fonts/fa-regular-400.svg",
-      "PackagePath": "staticwebassets/fonts/fa-regular-400.svg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/fonts/fa-regular-400.ttf",
-      "PackagePath": "staticwebassets/fonts/fa-regular-400.ttf"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/fonts/fa-regular-400.woff",
-      "PackagePath": "staticwebassets/fonts/fa-regular-400.woff"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/fonts/fa-regular-400.woff2",
-      "PackagePath": "staticwebassets/fonts/fa-regular-400.woff2"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.eot"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/fonts/fa-solid-900.eot",
-      "PackagePath": "staticwebassets/fonts/fa-solid-900.eot"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.svg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/fonts/fa-solid-900.svg",
-      "PackagePath": "staticwebassets/fonts/fa-solid-900.svg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/fonts/fa-solid-900.ttf",
-      "PackagePath": "staticwebassets/fonts/fa-solid-900.ttf"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/fonts/fa-solid-900.woff",
-      "PackagePath": "staticwebassets/fonts/fa-solid-900.woff"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/fonts/fa-solid-900.woff2",
-      "PackagePath": "staticwebassets/fonts/fa-solid-900.woff2"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\fonts\\gijgo-material.eot",
+      "PackagePath": "staticwebassets\\fonts\\gijgo-material.eot"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/fonts/gijgo-material.eot",
-      "PackagePath": "staticwebassets/fonts/gijgo-material.eot"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\fonts\\gijgo-material.svg",
+      "PackagePath": "staticwebassets\\fonts\\gijgo-material.svg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/fonts/gijgo-material.svg",
-      "PackagePath": "staticwebassets/fonts/gijgo-material.svg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\fonts\\gijgo-material.ttf",
+      "PackagePath": "staticwebassets\\fonts\\gijgo-material.ttf"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/fonts/gijgo-material.ttf",
-      "PackagePath": "staticwebassets/fonts/gijgo-material.ttf"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\fonts\\gijgo-material.woff",
+      "PackagePath": "staticwebassets\\fonts\\gijgo-material.woff"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/fonts/gijgo-material.woff",
-      "PackagePath": "staticwebassets/fonts/gijgo-material.woff"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\fonts\\themify.eot"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/fonts/themify.eot",
-      "PackagePath": "staticwebassets/fonts/themify.eot"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\fonts\\themify.svg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/fonts/themify.svg",
-      "PackagePath": "staticwebassets/fonts/themify.svg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\fonts\\themify.ttf"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/fonts/themify.ttf",
-      "PackagePath": "staticwebassets/fonts/themify.ttf"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\fonts\\themify.woff"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/fonts/themify.woff",
-      "PackagePath": "staticwebassets/fonts/themify.woff"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\img\\blog\\author.png"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/blog/author.png",
-      "PackagePath": "staticwebassets/img/blog/author.png"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\blog\\comment_1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\comment_1.png"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/blog/comment_1.png",
-      "PackagePath": "staticwebassets/img/blog/comment_1.png"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\blog\\comment_2.png",
+      "PackagePath": "staticwebassets\\img\\blog\\comment_2.png"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/blog/comment_2.png",
-      "PackagePath": "staticwebassets/img/blog/comment_2.png"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\blog\\comment_3.png",
+      "PackagePath": "staticwebassets\\img\\blog\\comment_3.png"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/blog/comment_3.png",
-      "PackagePath": "staticwebassets/img/blog/comment_3.png"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\blog\\learn_about_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\learn_about_bg.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/blog/learn_about_bg.jpg",
-      "PackagePath": "staticwebassets/img/blog/learn_about_bg.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\blog\\single_blog_1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_1.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/blog/single_blog_1.jpg",
-      "PackagePath": "staticwebassets/img/blog/single_blog_1.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\blog\\single_blog_2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_2.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/blog/single_blog_2.jpg",
-      "PackagePath": "staticwebassets/img/blog/single_blog_2.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\blog\\single_blog_3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_3.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/blog/single_blog_3.jpg",
-      "PackagePath": "staticwebassets/img/blog/single_blog_3.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\blog\\single_blog_4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_4.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/blog/single_blog_4.jpg",
-      "PackagePath": "staticwebassets/img/blog/single_blog_4.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\blog\\single_blog_5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_5.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/blog/single_blog_5.jpg",
-      "PackagePath": "staticwebassets/img/blog/single_blog_5.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\blog\\slide_thumb_1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\slide_thumb_1.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/blog/slide_thumb_1.jpg",
-      "PackagePath": "staticwebassets/img/blog/slide_thumb_1.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\elements\\a.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\a.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/elements/a.jpg",
-      "PackagePath": "staticwebassets/img/elements/a.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\elements\\a2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\a2.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/elements/a2.jpg",
-      "PackagePath": "staticwebassets/img/elements/a2.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\d.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/elements/d.jpg",
-      "PackagePath": "staticwebassets/img/elements/d.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-check.png"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/elements/disabled-check.png",
-      "PackagePath": "staticwebassets/img/elements/disabled-check.png"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-radio.png"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/elements/disabled-radio.png",
-      "PackagePath": "staticwebassets/img/elements/disabled-radio.png"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f1.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/elements/f1.jpg",
-      "PackagePath": "staticwebassets/img/elements/f1.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f2.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/elements/f2.jpg",
-      "PackagePath": "staticwebassets/img/elements/f2.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f3.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/elements/f3.jpg",
-      "PackagePath": "staticwebassets/img/elements/f3.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f4.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/elements/f4.jpg",
-      "PackagePath": "staticwebassets/img/elements/f4.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f5.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/elements/f5.jpg",
-      "PackagePath": "staticwebassets/img/elements/f5.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f6.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/elements/f6.jpg",
-      "PackagePath": "staticwebassets/img/elements/f6.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f7.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/elements/f7.jpg",
-      "PackagePath": "staticwebassets/img/elements/f7.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f8.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/elements/f8.jpg",
-      "PackagePath": "staticwebassets/img/elements/f8.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g1.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/elements/g1.jpg",
-      "PackagePath": "staticwebassets/img/elements/g1.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g2.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/elements/g2.jpg",
-      "PackagePath": "staticwebassets/img/elements/g2.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g3.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/elements/g3.jpg",
-      "PackagePath": "staticwebassets/img/elements/g3.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g4.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/elements/g4.jpg",
-      "PackagePath": "staticwebassets/img/elements/g4.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g5.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/elements/g5.jpg",
-      "PackagePath": "staticwebassets/img/elements/g5.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g6.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/elements/g6.jpg",
-      "PackagePath": "staticwebassets/img/elements/g6.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g7.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/elements/g7.jpg",
-      "PackagePath": "staticwebassets/img/elements/g7.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g8.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/elements/g8.jpg",
-      "PackagePath": "staticwebassets/img/elements/g8.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-check.png"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/elements/primary-check.png",
-      "PackagePath": "staticwebassets/img/elements/primary-check.png"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-radio.png"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/elements/primary-radio.png",
-      "PackagePath": "staticwebassets/img/elements/primary-radio.png"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-check.png"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/elements/success-check.png",
-      "PackagePath": "staticwebassets/img/elements/success-check.png"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-radio.png"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/elements/success-radio.png",
-      "PackagePath": "staticwebassets/img/elements/success-radio.png"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\gallery\\Picture1.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\Picture1.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/gallery/Picture1.jpg",
-      "PackagePath": "staticwebassets/img/gallery/Picture1.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\gallery\\about1.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\about1.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/gallery/about1.jpg",
-      "PackagePath": "staticwebassets/img/gallery/about1.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\gallery\\blog1.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\blog1.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/gallery/blog1.jpg",
-      "PackagePath": "staticwebassets/img/gallery/blog1.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\gallery\\blog2.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\blog2.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/gallery/blog2.jpg",
-      "PackagePath": "staticwebassets/img/gallery/blog2.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\gallery\\blog3.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\blog3.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/gallery/blog3.jpg",
-      "PackagePath": "staticwebassets/img/gallery/blog3.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\gallery\\blog4.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\blog4.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/gallery/blog4.jpg",
-      "PackagePath": "staticwebassets/img/gallery/blog4.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\gallery\\blog5.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\blog5.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/gallery/blog5.jpg",
-      "PackagePath": "staticwebassets/img/gallery/blog5.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\gallery\\blog6.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\blog6.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/gallery/blog6.jpg",
-      "PackagePath": "staticwebassets/img/gallery/blog6.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\gallery\\gallery1.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery1.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/gallery/gallery1.jpg",
-      "PackagePath": "staticwebassets/img/gallery/gallery1.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\gallery\\gallery2.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery2.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/gallery/gallery2.jpg",
-      "PackagePath": "staticwebassets/img/gallery/gallery2.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\gallery\\gallery3.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery3.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/gallery/gallery3.jpg",
-      "PackagePath": "staticwebassets/img/gallery/gallery3.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\gallery\\gallery4.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery4.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/gallery/gallery4.jpg",
-      "PackagePath": "staticwebassets/img/gallery/gallery4.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\gallery\\gallery5.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery5.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/gallery/gallery5.jpg",
-      "PackagePath": "staticwebassets/img/gallery/gallery5.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\gallery\\gallery6.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery6.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/gallery/gallery6.jpg",
-      "PackagePath": "staticwebassets/img/gallery/gallery6.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\gallery\\team1.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\team1.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/gallery/team1.jpg",
-      "PackagePath": "staticwebassets/img/gallery/team1.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\gallery\\team2.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\team2.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/gallery/team2.jpg",
-      "PackagePath": "staticwebassets/img/gallery/team2.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\gallery\\team3.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\team3.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/gallery/team3.jpg",
-      "PackagePath": "staticwebassets/img/gallery/team3.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\gallery\\team4.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\team4.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/gallery/team4.jpg",
-      "PackagePath": "staticwebassets/img/gallery/team4.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\gallery\\visit_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\visit_bg.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/gallery/visit_bg.jpg",
-      "PackagePath": "staticwebassets/img/gallery/visit_bg.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\hero\\h1_hero.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\h1_hero.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/hero/h1_hero.jpg",
-      "PackagePath": "staticwebassets/img/hero/h1_hero.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\hero\\hero2.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\hero2.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/hero/hero2.jpg",
-      "PackagePath": "staticwebassets/img/hero/hero2.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\icon\\air.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\air.svg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/icon/air.svg",
-      "PackagePath": "staticwebassets/img/icon/air.svg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\icon\\call.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\call.svg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/icon/call.svg",
-      "PackagePath": "staticwebassets/img/icon/call.svg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\icon\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\icon\\favicon.png"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/icon/favicon.png",
-      "PackagePath": "staticwebassets/img/icon/favicon.png"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\icon\\time.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\time.svg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/icon/time.svg",
-      "PackagePath": "staticwebassets/img/icon/time.svg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo\\logo.png"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/logo/logo.png",
-      "PackagePath": "staticwebassets/img/logo/logo.png"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\logo\\logo2_footer.png",
+      "PackagePath": "staticwebassets\\img\\logo\\logo2_footer.png"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/logo/logo2_footer.png",
-      "PackagePath": "staticwebassets/img/logo/logo2_footer.png"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\logo\\meshcon.png",
+      "PackagePath": "staticwebassets\\img\\logo\\meshcon.png"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/logo/meshcon.png",
-      "PackagePath": "staticwebassets/img/logo/meshcon.png"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\post\\next.jpg",
+      "PackagePath": "staticwebassets\\img\\post\\next.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/post/next.jpg",
-      "PackagePath": "staticwebassets/img/post/next.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\post\\post_1.jpg",
+      "PackagePath": "staticwebassets\\img\\post\\post_1.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/post/post_1.jpg",
-      "PackagePath": "staticwebassets/img/post/post_1.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\post\\post_10.jpg",
+      "PackagePath": "staticwebassets\\img\\post\\post_10.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/post/post_10.jpg",
-      "PackagePath": "staticwebassets/img/post/post_10.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\post\\post_2.jpg",
+      "PackagePath": "staticwebassets\\img\\post\\post_2.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/post/post_2.jpg",
-      "PackagePath": "staticwebassets/img/post/post_2.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\post\\post_3.jpg",
+      "PackagePath": "staticwebassets\\img\\post\\post_3.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/post/post_3.jpg",
-      "PackagePath": "staticwebassets/img/post/post_3.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\post\\post_4.jpg",
+      "PackagePath": "staticwebassets\\img\\post\\post_4.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/post/post_4.jpg",
-      "PackagePath": "staticwebassets/img/post/post_4.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\post\\post_5.jpg",
+      "PackagePath": "staticwebassets\\img\\post\\post_5.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/post/post_5.jpg",
-      "PackagePath": "staticwebassets/img/post/post_5.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\post\\post_6.jpg",
+      "PackagePath": "staticwebassets\\img\\post\\post_6.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/post/post_6.jpg",
-      "PackagePath": "staticwebassets/img/post/post_6.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\post\\post_7.jpg",
+      "PackagePath": "staticwebassets\\img\\post\\post_7.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/post/post_7.jpg",
-      "PackagePath": "staticwebassets/img/post/post_7.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\post\\post_8.jpg",
+      "PackagePath": "staticwebassets\\img\\post\\post_8.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/post/post_8.jpg",
-      "PackagePath": "staticwebassets/img/post/post_8.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\post\\post_9.jpg",
+      "PackagePath": "staticwebassets\\img\\post\\post_9.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/post/post_9.jpg",
-      "PackagePath": "staticwebassets/img/post/post_9.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\img\\post\\preview.jpg",
+      "PackagePath": "staticwebassets\\img\\post\\preview.jpg"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/img/post/preview.jpg",
-      "PackagePath": "staticwebassets/img/post/preview.jpg"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/js/bootstrap.min.js",
-      "PackagePath": "staticwebassets/js/bootstrap.min.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/js/contact.js",
-      "PackagePath": "staticwebassets/js/contact.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\js\\hover-direction-snake.min.js",
+      "PackagePath": "staticwebassets\\js\\hover-direction-snake.min.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/js/hover-direction-snake.min.js",
-      "PackagePath": "staticwebassets/js/hover-direction-snake.min.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.ajaxchimp.min.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/js/jquery.ajaxchimp.min.js",
-      "PackagePath": "staticwebassets/js/jquery.ajaxchimp.min.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/js/jquery.counterup.min.js",
-      "PackagePath": "staticwebassets/js/jquery.counterup.min.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\js\\jquery.form.js",
+      "PackagePath": "staticwebassets\\js\\jquery.form.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/js/jquery.form.js",
-      "PackagePath": "staticwebassets/js/jquery.form.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\js\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/js/jquery.magnific-popup.js",
-      "PackagePath": "staticwebassets/js/jquery.magnific-popup.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/js/jquery.nice-select.min.js",
-      "PackagePath": "staticwebassets/js/jquery.nice-select.min.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\js\\jquery.slicknav.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.min.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/js/jquery.slicknav.min.js",
-      "PackagePath": "staticwebassets/js/jquery.slicknav.min.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/js/jquery.validate.min.js",
-      "PackagePath": "staticwebassets/js/jquery.validate.min.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\js\\mail-script.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/js/mail-script.js",
-      "PackagePath": "staticwebassets/js/mail-script.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/js/main.js",
-      "PackagePath": "staticwebassets/js/main.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/js/owl.carousel.min.js",
-      "PackagePath": "staticwebassets/js/owl.carousel.min.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/js/plugins.js",
-      "PackagePath": "staticwebassets/js/plugins.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/js/popper.min.js",
-      "PackagePath": "staticwebassets/js/popper.min.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/js/site.js",
-      "PackagePath": "staticwebassets/js/site.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/js/slick.min.js",
-      "PackagePath": "staticwebassets/js/slick.min.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-1.12.4.min.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/js/vendor/jquery-1.12.4.min.js",
-      "PackagePath": "staticwebassets/js/vendor/jquery-1.12.4.min.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\js\\vendor\\modernizr-3.5.0.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\modernizr-3.5.0.min.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/js/vendor/modernizr-3.5.0.min.js",
-      "PackagePath": "staticwebassets/js/vendor/modernizr-3.5.0.min.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.min.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/js/waypoints.min.js",
-      "PackagePath": "staticwebassets/js/waypoints.min.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\wow.min.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/js/wow.min.js",
-      "PackagePath": "staticwebassets/js/wow.min.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/LICENSE",
-      "PackagePath": "staticwebassets/lib/bootstrap"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/jquery-validation/LICENSE.md",
-      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/jquery-validation/dist/additional-methods.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/jquery/LICENSE.txt",
-      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/jquery/dist/jquery.js",
-      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/jquery/dist/jquery.min.js",
-      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/lib/jquery/dist/jquery.min.map",
-      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\scss\\_about.scss",
+      "PackagePath": "staticwebassets\\scss\\_about.scss"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/scss/_about.scss",
-      "PackagePath": "staticwebassets/scss/_about.scss"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\scss\\_blog_page.scss",
+      "PackagePath": "staticwebassets\\scss\\_blog_page.scss"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/scss/_blog_page.scss",
-      "PackagePath": "staticwebassets/scss/_blog_page.scss"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\scss\\_bradcam.scss",
+      "PackagePath": "staticwebassets\\scss\\_bradcam.scss"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/scss/_bradcam.scss",
-      "PackagePath": "staticwebassets/scss/_bradcam.scss"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\scss\\_button.scss",
+      "PackagePath": "staticwebassets\\scss\\_button.scss"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/scss/_button.scss",
-      "PackagePath": "staticwebassets/scss/_button.scss"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\scss\\_color.scss",
+      "PackagePath": "staticwebassets\\scss\\_color.scss"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/scss/_color.scss",
-      "PackagePath": "staticwebassets/scss/_color.scss"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\scss\\_common.scss",
+      "PackagePath": "staticwebassets\\scss\\_common.scss"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/scss/_common.scss",
-      "PackagePath": "staticwebassets/scss/_common.scss"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\scss\\_contact.scss",
+      "PackagePath": "staticwebassets\\scss\\_contact.scss"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/scss/_contact.scss",
-      "PackagePath": "staticwebassets/scss/_contact.scss"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\scss\\_elements.scss",
+      "PackagePath": "staticwebassets\\scss\\_elements.scss"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/scss/_elements.scss",
-      "PackagePath": "staticwebassets/scss/_elements.scss"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\scss\\_extend.scss",
+      "PackagePath": "staticwebassets\\scss\\_extend.scss"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/scss/_extend.scss",
-      "PackagePath": "staticwebassets/scss/_extend.scss"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\_footer.scss"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/scss/_footer.scss",
-      "PackagePath": "staticwebassets/scss/_footer.scss"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\scss\\_gallery.scss",
+      "PackagePath": "staticwebassets\\scss\\_gallery.scss"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/scss/_gallery.scss",
-      "PackagePath": "staticwebassets/scss/_gallery.scss"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\scss\\_h1-hero.scss",
+      "PackagePath": "staticwebassets\\scss\\_h1-hero.scss"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/scss/_h1-hero.scss",
-      "PackagePath": "staticwebassets/scss/_h1-hero.scss"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\scss\\_headerMenu.scss",
+      "PackagePath": "staticwebassets\\scss\\_headerMenu.scss"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/scss/_headerMenu.scss",
-      "PackagePath": "staticwebassets/scss/_headerMenu.scss"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\_mixins.scss"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/scss/_mixins.scss",
-      "PackagePath": "staticwebassets/scss/_mixins.scss"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\scss\\_overlay.scss",
+      "PackagePath": "staticwebassets\\scss\\_overlay.scss"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/scss/_overlay.scss",
-      "PackagePath": "staticwebassets/scss/_overlay.scss"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\scss\\_services.scss",
+      "PackagePath": "staticwebassets\\scss\\_services.scss"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/scss/_services.scss",
-      "PackagePath": "staticwebassets/scss/_services.scss"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\scss\\_services_section.scss",
+      "PackagePath": "staticwebassets\\scss\\_services_section.scss"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/scss/_services_section.scss",
-      "PackagePath": "staticwebassets/scss/_services_section.scss"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\scss\\_team.scss",
+      "PackagePath": "staticwebassets\\scss\\_team.scss"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/scss/_team.scss",
-      "PackagePath": "staticwebassets/scss/_team.scss"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\_variables.scss"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/scss/_variables.scss",
-      "PackagePath": "staticwebassets/scss/_variables.scss"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\scss\\_visit-tailor.scss",
+      "PackagePath": "staticwebassets\\scss\\_visit-tailor.scss"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/scss/_visit-tailor.scss",
-      "PackagePath": "staticwebassets/scss/_visit-tailor.scss"
+      "Id": "D:\\Projects\\Meschon\\Meshcon\\Meshcon\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
     },
     {
-      "Id": "/Users/aaron/Projects/Meschon/Meshcon/Meshcon/wwwroot/scss/style.scss",
-      "PackagePath": "staticwebassets/scss/style.scss"
-    },
-    {
-      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.Meshcon.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Meshcon.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.Meshcon.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Meshcon.props",
       "PackagePath": "build\\Meshcon.props"
     },
     {
-      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Meshcon.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Meshcon.props",
       "PackagePath": "buildMultiTargeting\\Meshcon.props"
     },
     {
-      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Meshcon.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Meshcon.props",
       "PackagePath": "buildTransitive\\Meshcon.props"
     }
   ],
