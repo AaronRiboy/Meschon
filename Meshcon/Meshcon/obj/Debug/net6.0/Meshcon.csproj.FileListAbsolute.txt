@@ -959,7 +959,6 @@ D:\Projects\Meschon\Meshcon\Meshcon\bin\Debug\net6.0\refs\System.dll
 D:\Projects\Meschon\Meshcon\Meshcon\bin\Debug\net6.0\refs\System.Drawing.dll
 D:\Projects\Meschon\Meshcon\Meshcon\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
 D:\Projects\Meschon\Meshcon\Meshcon\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
-D:\Projects\Meschon\Meshcon\Meshcon\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
 D:\Projects\Meschon\Meshcon\Meshcon\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
 D:\Projects\Meschon\Meshcon\Meshcon\bin\Debug\net6.0\refs\System.Globalization.dll
 D:\Projects\Meschon\Meshcon\Meshcon\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
@@ -1048,7 +1047,6 @@ D:\Projects\Meschon\Meshcon\Meshcon\bin\Debug\net6.0\refs\System.Security.Princi
 D:\Projects\Meschon\Meshcon\Meshcon\bin\Debug\net6.0\refs\System.Security.SecureString.dll
 D:\Projects\Meschon\Meshcon\Meshcon\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
 D:\Projects\Meschon\Meshcon\Meshcon\bin\Debug\net6.0\refs\System.ServiceProcess.dll
-D:\Projects\Meschon\Meshcon\Meshcon\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
 D:\Projects\Meschon\Meshcon\Meshcon\bin\Debug\net6.0\refs\System.Text.Encoding.dll
 D:\Projects\Meschon\Meshcon\Meshcon\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
 D:\Projects\Meschon\Meshcon\Meshcon\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
@@ -1180,3 +1178,11 @@ D:\Projects\Meschon\Meshcon\Meshcon\obj\Debug\net6.0\refint\Meshcon.dll
 D:\Projects\Meschon\Meshcon\Meshcon\obj\Debug\net6.0\Meshcon.pdb
 D:\Projects\Meschon\Meshcon\Meshcon\obj\Debug\net6.0\Meshcon.genruntimeconfig.cache
 D:\Projects\Meschon\Meshcon\Meshcon\obj\Debug\net6.0\ref\Meshcon.dll
+D:\Projects\Meschon\Meshcon\Meshcon\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\Projects\Meschon\Meshcon\Meshcon\bin\Debug\net6.0\MailKit.dll
+D:\Projects\Meschon\Meshcon\Meshcon\bin\Debug\net6.0\MimeKit.dll
+D:\Projects\Meschon\Meshcon\Meshcon\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\Projects\Meschon\Meshcon\Meshcon\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Projects\Meschon\Meshcon\Meshcon\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+D:\Projects\Meschon\Meshcon\Meshcon\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Projects\Meschon\Meshcon\Meshcon\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
