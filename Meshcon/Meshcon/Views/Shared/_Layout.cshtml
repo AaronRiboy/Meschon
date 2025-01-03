@@ -25,7 +25,7 @@
     <link rel="stylesheet" href="~/css/themify-icons.css">
     <link rel="stylesheet" href="~/css/slick.css">
     <link rel="stylesheet" href="~/css/nice-select.css">
-    <link rel="stylesheet" href="~/css/style.css?v=1.2  ">
+    <link rel="stylesheet" href="~/css/style.css?v=1.6">
     @await RenderSectionAsync("Head", required: false)
 </head>
 <body>
@@ -47,20 +47,20 @@
                                         <li><a asp-area="" asp-controller="Home" asp-action="Service">Service</a></li>
                                         <li><a asp-area="" asp-controller="Home" asp-action="Project">Project</a></li>
                                         <li><a asp-area="" asp-controller="Home" asp-action="About">About</a></li>
-                                        <li>
+@*                                         <li>
                                             <a href="#">Blog</a>
                                             <ul class="submenu">
                                                 <li><a href="blog.html">Blog</a></li>
                                                 <li><a href="blog_details.html">Blog Details</a></li>
                                                 <li><a href="elements.html">Elements</a></li>
                                             </ul>
-                                        </li>
+                                        </li> *@
                                         <li><a asp-area="" asp-controller="Home" asp-action="Contact">Contact</a></li>
                                     </ul>
                                 </nav>
                             </div>
                         </div>
-                        <div class="header-righ">
+@*                         <div class="header-righ">
                             <ul>
                                 <li>
                                     <form class="search-form" action="#">
@@ -72,7 +72,7 @@
                                     <a href="#" class="header-btn">Free Quote</a>
                                 </li>
                             </ul>
-                        </div>
+                        </div> *@
                         <!-- Mobile Menu -->
                         <div class="col-12">
                             <div class="mobile_menu d-block d-lg-none"></div>
@@ -98,16 +98,18 @@
                                 <div class="single-footer-caption mb-30">
                                     <!-- logo -->
                                     <div class="footer-logo mb-25">
-                                        <a href="index.html"><img src="/img/logo/logo2_footer.png" alt=""></a>
+                                        <a href="index.html"><img style="height:60px" src="/img/logo/meshcon.png" alt=""></a>
                                     </div>
                                     <div class="footer-tittle">
                                         <div class="footer-pera">
-                                            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
+                                            <p>
+                                                A company that provides excellent FRP works, Civil works, Engineering works and Construction works, Building maintenance works and other related service.
+                                            </p>
                                         </div>
                                     </div>
                                     <!-- social -->
                                     <ul class="footer-social">
-                                        <li><a href="https://bit.ly/sai4ull"><i class="fab fa-facebook-f"></i></a></li>
+                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                         <li><a href="#"><i class="fab fa-instagram"></i></a></li>
                                         <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                                         <li> <a href="#"><i class="fab fa-youtube"></i></a></li>
@@ -121,10 +123,10 @@
                                     <h4>Navigation</h4>
                                     <ul>
                                         <li><a href="#">Home</a></li>
-                                        <li><a href="#">About</a></li>
-                                        <li><a href="#">Services</a></li>
-                                        <li><a href="#">Blog</a></li>
-                                        <li><a href="#">Contact</a></li>
+                                        <li><a href="/Home/About">About</a></li>
+                                        <li><a href="/Home/Service">Services</a></li>
+                                        <li><a href="/Home/Project">Project</a></li>
+                                        <li><a href="/Home/Contact">Contact</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -134,10 +136,9 @@
                                 <div class="footer-tittle">
                                     <h4>Contact</h4>
                                     <ul>
-                                        <li><a href="#">87/A, Green lane, CA 6732</a></li>
-                                        <li><a href="#">Real State</a></li>
-                                        <li class="number2"><a href="#">info@josanclick.com</a></li>
-                                        <li class="number"><a href="#">+10 236 327 3782</a></li>
+                                        <li><a href="#">No.253,Lebuh Bandar 2/4, Taman Bandar Putra 09000, Kulim Kedah</a></li>
+                                        <li class="number2"><a href="#">meshconsdhbhd@gmail.com</a></li>
+                                        <li class="number"><a href="#">0164913774</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -150,7 +151,8 @@
                                 <!-- Form -->
                                 <div class="footer-form">
                                     <div id="mc_embed_signup">
-                                        <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="subscribe_form relative mail_part" novalidate="true">
+                                        <p>Available Soon</p>
+@*                                         <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="subscribe_form relative mail_part" novalidate="true">
                                             <input type="email" name="EMAIL" id="newsletter-form-email" placeholder="  Enter your email">
                                             <div class="form-icon">
                                                 <button type="submit" name="submit" id="newsletter-submit" class="email_icon newsletter-submit button-contactForm">
@@ -158,7 +160,7 @@
                                                 </button>
                                             </div>
                                             <div class="mt-10 info"></div>
-                                        </form>
+                                        </form> *@
                                     </div>
                                 </div>
                             </div>

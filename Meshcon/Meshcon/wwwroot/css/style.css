@@ -3571,13 +3571,13 @@ hr {
 }
 
 .slider-bg1 {
-    background-image: url(../img/hero/h1_hero.jpg);
+    background-image: url(../img/hero/bg.jpg);
     background-repeat: no-repeat;
     background-size: cover
 }
 
 .slider-bg2 {
-    background-image: url(../img/hero/hero2.jpg);
+    background-image: url(../img/hero/bg.jpg);
     background-repeat: no-repeat;
     background-size: cover
 }
@@ -3878,13 +3878,13 @@ hr {
     .slider-footer .footer-wrapper .single-caption {
         display: flex;
         align-items: center;
-        width: 20.33%;
+        width: 27%;
         padding: 0 10px
     }
 
 @media only screen and (min-width: 1200px) and (max-width: 1400px) {
     .slider-footer .footer-wrapper .single-caption {
-        width: 24.33%
+        width: 30%
     }
 }
 
@@ -4100,7 +4100,7 @@ hr {
 }
 
 .visit-tailor-area .tailor-offers {
-    background-image: url(../img/gallery/visit_bg.jpg);
+    background-image: url(../img/gallery/Picture1.jpg);
     background-size: 100%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -4150,8 +4150,7 @@ hr {
     .visit-tailor-area .tailor-offers .info-man {
         bottom: 153px;
         right: 68px
-    }
-}
+    }}
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .visit-tailor-area .tailor-offers .info-man {
@@ -7910,3 +7909,8 @@ b, sup, sub, u, del {
 .switch-wrap {
     margin-bottom: 10px
 }
+
+.carousalImg{
+    height:15rem !important;
+}
+
