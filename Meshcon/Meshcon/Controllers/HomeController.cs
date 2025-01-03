@@ -1,22 +1,19 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Meshcon.Models;
-using Meshcon.Interfaces;
 
 namespace Meshcon.Controllers;
 
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
-    private readonly IEmailSender _emailSender;
 
-    public HomeController(ILogger<HomeController> logger,IEmailSender emailSender)
+    public HomeController(ILogger<HomeController> logger)
     {
         _logger = logger;
-        _emailSender = emailSender;
     }
 
-    public async Task<IActionResult> IndexAsync()
+    public IActionResult Index()
     {
         return View();
     }

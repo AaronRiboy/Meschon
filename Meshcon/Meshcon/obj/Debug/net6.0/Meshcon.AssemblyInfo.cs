@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Meshcon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+461ac806a9c6ca44884bd996c736927b3f40d766")]
 [assembly: System.Reflection.AssemblyProductAttribute("Meshcon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Meshcon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
