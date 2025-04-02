@@ -1,0 +1,16 @@
+# Build and IDE artifacts
+bin/
+obj/
+*.dll
+*.pdb
+*.vsidx
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
